@@ -68,6 +68,26 @@
   ],
   "education": [
     {
+      "institution": "Mid-Pacific Institute, Honolulu, HI",
+      "area": "High Schooler",
+      "studyType": "High School",
+      "startDate": "2008-09-01",
+      "endDate": "2012-05-25",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Rochester Institute of Technology, Rochester, NY",
+      "area": "Game Design and Development (transfered)",
+      "studyType": "B.A.",
+      "startDate": "2012-09-01",
+      "endDate": "2013-05-18",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.A.",
