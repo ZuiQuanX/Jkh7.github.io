@@ -56,5 +56,5 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="https://www.youtube.com/watch?v=Uu0OSaHgr_0"></a>
+Source: https://www.youtube.com/watch?v=Uu0OSaHgr_0
 
