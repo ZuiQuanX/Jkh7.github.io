@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: 
+title: League of Legends Beginner's Guide
+permalink: projects/LoL
+date: 2012
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Youtube
+  - Film Making
+summary: An IB Informational Technology in a Global Society project made in 2012.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
@@ -56,5 +56,5 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://www.youtube.com/watch?v=Uu0OSaHgr_0"></a>
 
