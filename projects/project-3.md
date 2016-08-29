@@ -17,12 +17,11 @@ The League of Legends Beginner's Guide was a project I made in my senior year of
 
 The video was then posted onto Youtube to provide a way for my client to view the video and for others that may be in his shoes, to also view the video.
 
-<hr>
 The video can be viewed below.
-<pre>
+<hr>
+
 <div class="ui embed" data-source="youtube" data-id="Uu0OSaHgr_0" >
 </div>
-</pre>
 
 <hr>
 
