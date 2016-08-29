@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: League_of_Legends_logo.png
 title: League of Legends Beginner's Guide
 permalink: projects/LoL
 date: 2012
@@ -11,7 +11,7 @@ labels:
 summary: An IB Informational Technology in a Global Society project made in 2012.
 ---
 
-<img class="ui image" src="../images/League_of_Legends_logo.png">
+<img class="ui image" src="../images/LoL-Banner-2.png">
 
 The League of Legends Beginner's Guide was a project I made in my senior year of high school as part of my ITGS class. The aim of the project was to consult with a client to design and implement a real-world application using technology mediums to address either a problem or a desired application. The result of the project was a beginner's guide video to an online video game called League of Legends.
 
