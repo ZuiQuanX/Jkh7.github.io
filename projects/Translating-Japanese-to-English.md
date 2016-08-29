@@ -25,5 +25,4 @@ The translation itself is still in progress as of August 28, 2016. I've made sig
 
 You can see my progress at [Google Docs](https://docs.google.com/document/d/1JjfeDlyv-q_SwU5Q48eko8lBoxLoA339azCqW2nu0_o/edit?usp=sharing).
 
-
-
+You can also see the actual text from the Chaos TCG website [Here](http://chaos-tcg.com/rule/Chaos_rule.pdf)
