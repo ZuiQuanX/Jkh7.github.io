@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: League_of_Legends_logo.png
+image: images/League_of_Legends_logo.png
 title: League of Legends Beginner's Guide
 permalink: projects/LoL
 date: 2012
