@@ -11,7 +11,7 @@ labels:
 summary: An IB Informational Technology in a Global Society project made in 2012.
 ---
 
-<img class="ui medium image" src="../images/league_of_legends_banner_2.jpg">
+<img class="ui image" src="../images/league_of_legends_banner_2.jpg">
 
 The League of Legends Beginner's Guide was a project I made in my senior year of high school as part of my ITGS class. The aim of the project was to consult with a client to design and implement a real-world application using technology mediums to address either a problem or a desired application. The result of the project was a beginner's guide video to an online video game called League of Legends.
 
