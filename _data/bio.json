@@ -2,10 +2,10 @@
   "basics": {
     "name": "Jeremy Hedricks",
     "label": "Student",
-    "picture": "https://ZuiQuanX.github.io/images/Profile Picture.jpg",
+    "picture": "https://jeremyhedricks.github.io/images/Profile Picture.jpg",
     "email": "jkh7@hawaii.edu",
     "phone": "808-206-6448",
-    "website": "https://ZuiQuanX.github.io",
+    "website": "https://jeremyhedricks.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "University of Hawaii at Manoa",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "ZuiQuanX",
-        "url": "http://github.com/ZuiQuanX"
+        "username": "jeremyhedricks",
+        "url": "http://github.com/jeremyhedricks"
       },
       {
         "network": "linkedin",
