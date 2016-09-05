@@ -5,6 +5,7 @@ title: Javascript
 date: 2016-09-5
 labels:
   - Learning
+  - Javascript
 ---
 
 <img class="ui medium left circular floated image" src="../images/Java Logo.png.jpg">
