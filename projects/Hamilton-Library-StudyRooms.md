@@ -11,7 +11,7 @@ labels:
 summary: A collection of images and data regarding the booking of study rooms.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/StudyRoomA252b.jpg">
+<img class="ui medium right floated image" src="../images/StudyRoomA252b.jpg">
 
 This project involved me taking a series of photographs of all the study rooms in the Thomas Hale Hamilton Library. Along with collecting data on the room size, number of chairs, number of outlets, size of the desk, and etc., these were used to give library patrons more information regarding which study room to reserve. This project was done as part of my student job at the Hamilton Library. Since then, patrons have made comments that the site allows them to choose the study room right for them.
 
