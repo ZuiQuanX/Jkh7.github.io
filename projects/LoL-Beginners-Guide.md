@@ -27,7 +27,8 @@ The video can be viewed below.
 
 <hr>
 
-Sources: (https://www.youtube.com/watch?v=Uu0OSaHgr_0)
-(https://i.ytimg.com/vi/1MbhGwXJhdc/maxresdefault.jpg)
-(https://upload.wikimedia.org/wikipedia/en/7/77/League_of_Legends_logo.png)
+Sources: 
+<a href="https://www.youtube.com/watch?v=Uu0OSaHgr_0">Youtube Video</a>
+<a href="https://i.ytimg.com/vi/1MbhGwXJhdc/maxresdefault.jpg">Image 1</a>
+<a href="https://upload.wikimedia.org/wikipedia/en/7/77/League_of_Legends_logo.png">Image 2</a>
 
