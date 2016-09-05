@@ -17,4 +17,4 @@ This project involved me taking a series of photographs of all the study rooms i
 
 During my work shift, I went to each study room and took a panoramic photograph with my smartphone camera. I attempted to get as wide and complete of a view as I could. Then I counted up the number of items in the room, noted the sizes, took note of miscellaneous things and provided this information to my supervisor. The data and photographs I collected are posted up on the Hamilton Library website under Group Study Room Reservations and made available to patrons who come to the front desk and request to know more. Hopefully this project will last for a long time and help patrons interested in booking study rooms.
  
-Source: <a href="http://library.manoa.hawaii.edu/services/HamGroupStudyRooms.php"></i>Hamilton Library Study Rooms</a>
+Source: <a href="http://library.manoa.hawaii.edu/services/HamGroupStudyRooms.php">Hamilton Library Study Rooms</a>
