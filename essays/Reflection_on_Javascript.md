@@ -16,8 +16,4 @@ Javascript is a "best of both worlds" kind of language in that it seems to reall
 
 In addition to being introduced to Javascript, I have recently been undergoing an activity called "athletic software engineering". Athletic software engineering is a time-based programming exercise that involves solving a programming program as fast as possible while still being correct. It is a stressful experience, but through repition it has slowly been improving my programming skills. The time aspect makes it so that you think with all your might in the few minutes time constraint and find the solution in a timely manner. I'm certain that this mimics real-world conditions of solving complex coding problems within time constratins. In no way can you say to your boss that you've failed to find the solution and need more time. Thus this exercise is proving a good prepatory exercise to entering the field of software engineering.
 
-Sources: [Day 4 - Magic Kingdom](https://www.flickr.com/photos/loimere/5068068920/) by [Derek Hatfield](https://www.flickr.com/photos/loimere/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
-
-[Magic! ;-)](https://www.flickr.com/photos/peronimo/15085636609/) by [Per Gosche] is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
-
-[Doctor Strange sketch card](http://cassandrajames.deviantart.com/art/Doctor-Strange-sketch-card-208649132) by [CassandraJames](http://cassandrajames.deviantart.com/)
+Sources:
