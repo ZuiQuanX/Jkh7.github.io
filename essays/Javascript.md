@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Reflection on Javascript
-date: 2016-09-4
+title: Javascript
+date: 2016-09-5
 labels:
   - Learning
   - Javascript
