@@ -12,7 +12,7 @@ labels:
 summary: My endeavor to improve my Japanese by translating a 30 page Japanese rule sheet to English.
 ---
 
-<div class="ui medium rounded images">
+<div class="ui medium images">
   <img class="ui image" src="../images/chaos-tcg-banner.png">
   <img class="ui image" src="../images/Google-Translate.png">
   <img class="ui image" src="../images/Jisho.PNG">
